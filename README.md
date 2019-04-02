@@ -1,2 +1,2 @@
-# Games - WaffleIron
-Game i make in my spare time
+# Starbot
+2D side scolling adventure
